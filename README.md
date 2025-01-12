@@ -1,1 +1,5 @@
-Note: Use this source code when you get some issues or doubts.
+E188 IN=fotech - Simplify, Build and Grwo
+
+The website is available at : https://shreshthasingh011.github.io/E188-Infotech/
+
+
